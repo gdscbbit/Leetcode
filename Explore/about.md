@@ -1,2 +1,6 @@
 Complete the following courses first to get some leetcoins as a prize: <br>
-1. Intro to Machine Learning
+<ol>
+<li> Intro to Machine Learning
+<li> Cheatsheets
+<li> leetcode beginners guide
+</ol>
